@@ -1,5 +1,5 @@
 # Udhaari
-This is an Android Application developed by DSC JSS for maintaing transaction records between Vendors and Customers. The main purpose behind the application was to minimize the loss of data which customer is vending how much money and when did he returned that to the shop owner. 
+This is an Android Application developed by DSC JSS for maintaining transaction records between Vendors and Customers. The main purpose behind the application was to minimize the loss of data which customer is vending how much money and when did he return that to the shop owner. 
 
 ## Getting Started
 
