@@ -14,9 +14,9 @@ This is an Android Application developed by DSC JSS for maintaining transaction 
 ### Features Integrated
 * Recyclerview
 * Fragments
-* Search Option
-* Firebase for user login Authentication
-* Firebase as realtime Database to store the data of user
+* Search Option using Filterable
+* Firebase Authentication for user login
+* Firebase Firestore as realtime Database to store the data of user
 
 ### About
 
@@ -42,7 +42,6 @@ This is an Android Application developed by DSC JSS for maintaining transaction 
 ##### logging and injection
 * 'com.jakewharton.timber:timber:4.7.1'
 * 'com.jakewharton:butterknife:10.1.0'
-* 'androidx.legacy:legacy-support-v4:1.0.0'
 * 'com.jakewharton:butterknife-compiler:10.1.0'
 
 ##### Firebase
